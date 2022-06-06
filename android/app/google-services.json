@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292246534064",
+    "project_id": "vegi-food-app",
+    "storage_bucket": "vegi-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292246534064:android:e5ac46898f136370fd0875",
+        "android_client_info": {
+          "package_name": "com.example.vegi_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292246534064-jn8ej955761ottold3pkrlokrjl97gnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegi_food_app",
+            "certificate_hash": "f7e71cc5d016dc453862fd696d269b8d1e9572f3"
+          }
+        },
+        {
+          "client_id": "292246534064-73falve51871vfs7ajgcntguv8v64ch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9tMsUUcBJA8PVzpXf_mawCgJ1vC0EO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292246534064-73falve51871vfs7ajgcntguv8v64ch4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
